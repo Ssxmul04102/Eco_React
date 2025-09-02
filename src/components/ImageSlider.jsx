@@ -8,7 +8,7 @@ export default function ImageSlider() {
       slidesPerView={1}
       loop={true}
       autoplay={{ delay: 4000 }}
-      className="w-full h-screen"  // 👈 ocupa toda la pantalla
+      className="w-full h-screen"  // 
     >
       <SwiperSlide>
         <img src="/img1.jpg" alt="EcoEnergix 1" className="w-full h-full object-cover" />

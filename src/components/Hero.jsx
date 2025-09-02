@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="flex flex-col items-center justify-center text-center px-6 py-20">
       <div className="backdrop-blur-xl bg-white/30 border border-white/40 rounded-3xl shadow-xl p-10 max-w-2xl">
         <img 
-          src="/logo.png" 
+          src="../public/ogo.png" 
           alt="EcoEnergix Logo" 
           className="w-32 mx-auto mb-6"
         />
